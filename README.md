@@ -249,12 +249,10 @@ This project demonstrates practical implementation of:
 
 ---
 
-# 👨‍💻 Authors
+# 👨‍💻 Author
 
-- Sai Meghana
-- Nagam Sudha Sravanthi
-- Mukkara Sreeja
-- K. Lakshmi Anvitha
+M.Sai Meghana
+
 
 ---
 
